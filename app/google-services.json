@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358152931594",
+    "project_id": "fussionv2-552e0",
+    "storage_bucket": "fussionv2-552e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358152931594:android:23615ec248c917bc3dd2f3",
+        "android_client_info": {
+          "package_name": "com.example.fussionv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358152931594-nu27j9hoj4ab40ok9ilcc99kjshv3amf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTe9ndEj17Z9EWhkeLqzmEYcDrg_PQ3oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358152931594-nu27j9hoj4ab40ok9ilcc99kjshv3amf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
